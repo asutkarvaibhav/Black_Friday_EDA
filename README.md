@@ -15,6 +15,7 @@ The dataset used in this project contains sales data for a Black Friday event. T
 * Statistical Insights: Calculate summary statistics to understand the central tendencies, dispersion, and distribution of the data.
 
 **Libraries Used**
+
 The following Python libraries were used to perform the analysis:
 * pandas
 * numpy
